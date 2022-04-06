@@ -1,4 +1,4 @@
-![Header](https://github.com/AlekseidDEV/lexa5461/blob/main/assets/intro.png)
+![Header](https://github.com/AlekseidDEV/AlekseidDEV/blob/main/assets/intro.png)
 
 <!--
 **AlekseidDEV/AlekseidDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
