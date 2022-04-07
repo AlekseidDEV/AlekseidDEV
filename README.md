@@ -16,7 +16,7 @@
 
 
 
-![Card](https://github.com/AlekseidDEV/AlekseidDEV/blob/main/assets/Component%201.jpg#aligncenter)
+![Card](https://github.com/AlekseidDEV/AlekseidDEV/blob/main/assets/Component%201.jpg#alignright)
 
 ![Card](https://github.com/AlekseidDEV/AlekseidDEV/blob/main/assets/Component%201.jpg)
 
