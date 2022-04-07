@@ -2,7 +2,9 @@
 
 ## I am a beginner web developer
 
-![Flutter](https://img.shields.io/badge/-Flutter-1F1F1F?style=for-the-badge&logo=appveyor)
+
+### Languages ​​and Tools
+![HTML](https://img.shields.io/badge/-HTML-1F1F1F?style=for-the-badge&logo=appveyor)
 <!--
 **AlekseidDEV/AlekseidDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
