@@ -12,6 +12,10 @@
 ![PHP](https://img.shields.io/badge/-PHP-1F1F1F?style=for-the-badge&logo=PHP)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1F1F1F?style=for-the-badge&logo=Bootstrap)
 ![Git](https://img.shields.io/badge/-git-1F1F1F?style=for-the-badge&logo=git)
+
+
+
+
 ![Card](https://github.com/AlekseidDEV/AlekseidDEV/blob/main/assets/Component%201.jpg)
 ![Card](https://github.com/AlekseidDEV/AlekseidDEV/blob/main/assets/Component%202.jpg)
 
