@@ -1,0 +1,8 @@
+.card__js{
+    max-width: 600px;
+    height: 170px;
+    background: red;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
