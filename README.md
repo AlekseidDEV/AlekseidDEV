@@ -15,7 +15,7 @@
 ![Git](https://img.shields.io/badge/-git-1F1F1F?style=for-the-badge&logo=git)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksei__developer=contribs,prs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksei__developer)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **AlekseidDEV/AlekseidDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
