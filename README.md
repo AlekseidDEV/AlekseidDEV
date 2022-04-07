@@ -1,6 +1,6 @@
 ![Header](https://github.com/AlekseidDEV/AlekseidDEV/blob/main/assets/intro.png)
 
-## I am a beginner web developer
+## I'am a beginner web-developer
 
 
 ### Languages ​​and Tools
@@ -13,6 +13,9 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1F1F1F?style=for-the-badge&logo=Bootstrap)
 ![React](https://img.shields.io/badge/-React-1F1F1F?style=for-the-badge&logo=React)
 ![Git](https://img.shields.io/badge/-git-1F1F1F?style=for-the-badge&logo=git)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 <!--
 **AlekseidDEV/AlekseidDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
