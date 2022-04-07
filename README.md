@@ -4,7 +4,7 @@
 
 
 ### Languages ​​and Tools
-![HTML](https://img.shields.io/badge/-HTML-1F1F1F?style=for-the-badge&logo=html)
+![HTML](https://img.shields.io/badge/-HTML-1F1F1F?style=for-the-badge&logo=HTML5)
 <!--
 **AlekseidDEV/AlekseidDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
