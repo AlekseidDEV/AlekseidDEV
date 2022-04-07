@@ -18,7 +18,7 @@
 
 ### Follow me
 
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-1F1F1F?style=for-the-badge&logo=vkontakte)](https://vk.com/rudyko1)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-1F1F1F?style=for-the-badge&logo=Vk)](https://vk.com/rudyko1)
 
 [![Telegram](https://img.shields.io/badge/-Telegram-1F1F1F?style=for-the-badge&logo=Telegram)](https://web.telegram.org/k/)
 
