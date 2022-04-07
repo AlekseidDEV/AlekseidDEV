@@ -16,11 +16,6 @@
 
 
 
-
----------------
-
-
-
 ![Card](https://github.com/AlekseidDEV/AlekseidDEV/blob/main/assets/Component%201.jpg)
 
 ![Card](https://github.com/AlekseidDEV/AlekseidDEV/blob/main/assets/Component%202.jpg)
