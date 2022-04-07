@@ -11,14 +11,19 @@
 ![SASS](https://img.shields.io/badge/-SASS-1F1F1F?style=for-the-badge&logo=SASS)
 ![PHP](https://img.shields.io/badge/-PHP-1F1F1F?style=for-the-badge&logo=PHP)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1F1F1F?style=for-the-badge&logo=Bootstrap)
-![React](https://img.shields.io/badge/-React-1F1F1F?style=for-the-badge&logo=React)
+
 ![Git](https://img.shields.io/badge/-git-1F1F1F?style=for-the-badge&logo=git)
 
 
 
-![Card](https://github.com/AlekseidDEV/AlekseidDEV/blob/main/assets/Component%201.jpg#alignright)
+
+---------------
+
+
 
 ![Card](https://github.com/AlekseidDEV/AlekseidDEV/blob/main/assets/Component%201.jpg)
+
+
 
 
 
