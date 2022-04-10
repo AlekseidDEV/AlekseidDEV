@@ -43,7 +43,7 @@
 
 
 
-![Card]()
+![Card](https://github.com/AlekseidDEV/AlekseidDEV/blob/main/assets/Rectangle%207.svg)
 
 
 
