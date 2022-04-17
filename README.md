@@ -50,7 +50,7 @@
 
 
 
-![Card]()
+![Card](https://github.com/AlekseidDEV/AlekseidDEV/blob/main/assets/sass.svg)
 
 
 
