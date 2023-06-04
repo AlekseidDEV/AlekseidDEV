@@ -25,53 +25,6 @@
 
 ### Progress bar
 
-
-
-
-
-![Card](https://github.com/AlekseidDEV/AlekseidDEV/blob/main/assets/Component%201.jpg)
-
-
-
-
-
-
-![Card](https://github.com/AlekseidDEV/AlekseidDEV/blob/main/assets/Component%202.jpg)
-
-
-
-
-
-
-![Card](https://github.com/AlekseidDEV/AlekseidDEV/blob/main/assets/Rectangle%207.svg)
-
-
-
-
-
-
-![Card](https://github.com/AlekseidDEV/AlekseidDEV/blob/main/assets/sass.svg)
-
-
-
-
-
-
-
-![Card](https://github.com/AlekseidDEV/AlekseidDEV/blob/main/assets/Frame%202.svg)
-
-
-
-
-
-
-
-![Card](https://github.com/AlekseidDEV/AlekseidDEV/blob/main/assets/Frame%203.svg)
-
-
-
-
-
 <!--
 **AlekseidDEV/AlekseidDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
