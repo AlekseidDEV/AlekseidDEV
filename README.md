@@ -1,6 +1,6 @@
 ![Header](https://github.com/AlekseidDEV/AlekseidDEV/blob/main/assets/intro.png)
 
-## I'm a web developer and here's some information about me:
+## I'm a web developer and here's some information about me :
 
 - :telescope: I work as a web developer and develop websites
 
@@ -36,6 +36,9 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg"title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   </div>
 
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlekseidDEV&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
