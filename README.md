@@ -1,7 +1,15 @@
 ![Header](https://github.com/AlekseidDEV/AlekseidDEV/blob/main/assets/intro.png)
 
-## I'm a web developer
-<div>
+## I'm a web developer and here's some information about me:
+
+- :telescope: I work as a web developer and develop websites
+
+- :seedling: I am constantly improving and learning new technologies
+
+- :zap: in my free time I read books and articles on topics that interest me
+
+
+<div align='center'>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
