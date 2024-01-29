@@ -10,7 +10,7 @@
 
 
 <div align='center'>
-  <img src="/assets/programmer.gif" width="800" height="300"/>
+  <img src="./assets/programmer.gif" width="800" height="300"/>
 </div>
 
 
