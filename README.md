@@ -38,7 +38,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlekseidDEV&theme=merko&hide_border=true&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlekseidDEV&theme=merko&card_width=800)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseidDEV&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
