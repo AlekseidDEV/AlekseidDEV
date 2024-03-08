@@ -29,6 +29,7 @@
    <img src="https://github.com/AlekseidDEV/AlekseidDEV/blob/main/assets/bitrix.svg" title="Bitrix" alt="JavaScript" width="40" height="40"/>&nbsp;
    <img src="https://github.com/AlekseidDEV/AlekseidDEV/blob/main/assets/modxx.svg" title="Modx" alt="JavaScript" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="JavaScript" width="40" height="40"/>&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
 </div>
 
 ### :green_book: I'm studying now
