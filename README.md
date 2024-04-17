@@ -52,9 +52,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseidDEV&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Follow me
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-1F1F1F?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/rudyko1)
-
-[![Telegram](https://img.shields.io/badge/-Telegram-1F1F1F?style=for-the-badge&logo=Telegram)](https://web.telegram.org/k/)
+[![Telegram](https://img.shields.io/badge/-Telegram-1F1F1F?style=for-the-badge&logo=Telegram)](https://t.me/alekseiDdev)
 
 
 
