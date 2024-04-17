@@ -30,6 +30,8 @@
    <img src="https://github.com/AlekseidDEV/AlekseidDEV/blob/main/assets/modxx.svg" title="Modx" alt="JavaScript" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="JavaScript" width="40" height="40"/>&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"title="TypeScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg"title="Vite" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
 ### :green_book: I'm studying now
@@ -41,8 +43,6 @@
         <img src="./assets/nodejsLogo.webp"title="Node" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"title="Mongo" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg"title="GraphSql" alt="JavaScript" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"title="TypeScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg"title="Vite" alt="JavaScript" width="40" height="40"/>&nbsp;
   </div>
 
 ### :fire: My Stats :
