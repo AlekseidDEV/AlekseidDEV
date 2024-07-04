@@ -45,7 +45,7 @@
         <img src="./assets/nodejsLogo.webp"title="Node" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg"title="GraphSql" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" alt="JavaScript" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" title="Nuxt" alt="Nuxt" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt" alt="Nuxt" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
   </div>
 
