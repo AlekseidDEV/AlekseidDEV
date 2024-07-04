@@ -33,18 +33,19 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"title="TypeScript" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg"title="Vite" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"title="tailwind" alt="img" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"title="Mongo" alt="JavaScript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg"title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
 </div>
 
 ### :green_book: I'm studying now
 
   <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"title="React" alt="JavaScript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"title="React" alt="React" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg"title="Vue" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="./assets/nodejsLogo.webp"title="Node" alt="JavaScript" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"title="Mongo" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg"title="GraphSql" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" alt="JavaScript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" title="Nuxt" alt="Nuxt" width="40" height="40"/>&nbsp;
   </div>
 
 ### :fire: My Stats :
