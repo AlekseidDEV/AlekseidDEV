@@ -34,8 +34,8 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"title="tailwind" alt="img" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"title="Mongo" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg"title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
-        <img src="./assets/vuex-1.svg"title="Vuex" alt="Vue" width="30" height="40"/>&nbsp;
-        <img src="./assets/Pinialogo.png"title="Pinia" alt="Vue" width="40" height="40"/>&nbsp;
+        <img src="./assets/vuex-1.svg"title="Vuex" alt="Vue" width="40" height="40"/>&nbsp;
+        <img src="./assets/Pinialogo.png"title="Pinia" alt="Vue" width="30" height="40"/>&nbsp;
 </div>
 
 ### :green_book: I'm studying now
