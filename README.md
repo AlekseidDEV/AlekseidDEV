@@ -39,6 +39,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" title="VueTify" alt="Vue" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/quasar/quasar-original.svg" title="Quasar" alt="Vue" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios" alt="Vue" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="Vue" width="40" height="40"/>&nbsp;
 </div>
 
 ### :green_book: I'm studying now
