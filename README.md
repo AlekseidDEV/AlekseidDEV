@@ -13,7 +13,6 @@
   <img src="https://github.com/AlekseidDEV/AlekseidDEV/blob/main/assets/programmer.gif" width="800" height="300"/>
 </div>
 
-
 ### :hammer_and_wrench: Languages ​​and Tools
 
 <div>
